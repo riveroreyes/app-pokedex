@@ -1,0 +1,402 @@
+[1] Log opened at 2019-10-09 03:33:24
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:33:24
+[1]
+[1] Log opened at 2019-10-09 03:42:32
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:42:32
+[1]
+[1] Log opened at 2019-10-09 03:42:37
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:42:37
+[1]
+[1] Log opened at 2019-10-09 03:42:52
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:42:52
+[1]
+[1] Log opened at 2019-10-09 03:43:42
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:43:42
+[1]
+[1] Log opened at 2019-10-09 03:44:43
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:44:43
+[1]
+[1] Log opened at 2019-10-09 03:48:11
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:48:11
+[1]
+[1] Log opened at 2019-10-09 03:51:36
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:51:36
+[1]
+[1] Log opened at 2019-10-09 03:54:42
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:54:42
+[1]
+[1] Log opened at 2019-10-09 03:54:51
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:54:51
+[1]
+[1] Log opened at 2019-10-09 03:54:57
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 03:54:57
+[1]
+[1] Log opened at 2019-10-09 04:12:46
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:12:46
+[1]
+[1] Log opened at 2019-10-09 04:12:56
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:12:56
+[1]
+[1] Log opened at 2019-10-09 04:13:01
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:13:01
+[1]
+[1] Log opened at 2019-10-09 04:13:06
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:13:06
+[1]
+[1] Log opened at 2019-10-09 04:15:24
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:15:24
+[1]
+[1] Log opened at 2019-10-09 04:15:32
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:15:32
+[1]
+[1] Log opened at 2019-10-09 04:15:37
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:15:37
+[1]
+[1] Log opened at 2019-10-09 04:23:18
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:23:18
+[1]
+[1] Log opened at 2019-10-09 04:31:06
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:31:06
+[1]
+[1] Log opened at 2019-10-09 04:34:49
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:34:49
+[1]
+[1] Log opened at 2019-10-09 04:47:40
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:47:40
+[1]
+[1] Log opened at 2019-10-09 04:55:17
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 04:55:17
+[1]
+[1] Log opened at 2019-10-09 13:20:59
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 13:20:59
+[1]
+[1] Log opened at 2019-10-09 13:29:01
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 13:29:01
+[1]
+[46] Log opened at 2019-10-09 13:31:20
+[46] I: Connecting to configured address/port: 172.17.0.1:9000.
+[46] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[46] E: Could not connect to client. :-(
+[46] Log closed at 2019-10-09 13:31:20
+[46]
+[3287] Log opened at 2019-10-09 13:31:54
+[3287] I: Connecting to configured address/port: 172.17.0.1:9000.
+[3287] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[3287] E: Could not connect to client. :-(
+[3287] Log closed at 2019-10-09 13:31:54
+[3287]
+[3293] Log opened at 2019-10-09 13:31:54
+[3293] I: Connecting to configured address/port: 172.17.0.1:9000.
+[3293] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[3293] E: Could not connect to client. :-(
+[3293] Log closed at 2019-10-09 13:31:54
+[3293]
+[3319] Log opened at 2019-10-09 13:32:00
+[3319] I: Connecting to configured address/port: 172.17.0.1:9000.
+[3319] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[3319] E: Could not connect to client. :-(
+[3319] Log closed at 2019-10-09 13:32:00
+[3319]
+[3325] Log opened at 2019-10-09 13:32:00
+[3325] I: Connecting to configured address/port: 172.17.0.1:9000.
+[3325] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[3325] E: Could not connect to client. :-(
+[3325] Log closed at 2019-10-09 13:32:00
+[3325]
+[1] Log opened at 2019-10-09 13:35:35
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-09 13:35:35
+[1]
+[1] Log opened at 2019-10-10 14:59:27
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 14:59:27
+[1]
+[1] Log opened at 2019-10-10 14:59:36
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 14:59:36
+[1]
+[1] Log opened at 2019-10-10 14:59:53
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 14:59:53
+[1]
+[1] Log opened at 2019-10-10 15:00:03
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:00:03
+[1]
+[1] Log opened at 2019-10-10 15:00:15
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:00:15
+[1]
+[1] Log opened at 2019-10-10 15:02:34
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:02:34
+[1]
+[1] Log opened at 2019-10-10 15:02:36
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:02:36
+[1]
+[1] Log opened at 2019-10-10 15:02:39
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:02:39
+[1]
+[1] Log opened at 2019-10-10 15:02:42
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:02:42
+[1]
+[1] Log opened at 2019-10-10 15:09:09
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:09:09
+[1]
+[1] Log opened at 2019-10-10 15:09:56
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:09:56
+[1]
+[1] Log opened at 2019-10-10 15:10:08
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:10:08
+[1]
+[1] Log opened at 2019-10-10 15:10:44
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:10:44
+[1]
+[1] Log opened at 2019-10-10 15:11:36
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:11:36
+[1]
+[1] Log opened at 2019-10-10 15:11:39
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:11:39
+[1]
+[1] Log opened at 2019-10-10 15:11:50
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:11:50
+[1]
+[1] Log opened at 2019-10-10 15:11:56
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:11:56
+[1]
+[1] Log opened at 2019-10-10 15:12:04
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:12:04
+[1]
+[1] Log opened at 2019-10-10 15:12:07
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:12:07
+[1]
+[1] Log opened at 2019-10-10 15:18:46
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:18:46
+[1]
+[1] Log opened at 2019-10-10 15:19:38
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:19:38
+[1]
+[1] Log opened at 2019-10-10 15:19:40
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:19:40
+[1]
+[1] Log opened at 2019-10-10 15:19:55
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:19:55
+[1]
+[1] Log opened at 2019-10-10 15:20:00
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:20:00
+[1]
+[1] Log opened at 2019-10-10 15:20:33
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:20:33
+[1]
+[1] Log opened at 2019-10-10 15:20:38
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:20:38
+[1]
+[1] Log opened at 2019-10-10 15:20:40
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:20:40
+[1]
+[1] Log opened at 2019-10-10 15:20:44
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:20:44
+[1]
+[1] Log opened at 2019-10-10 15:21:21
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:21:21
+[1]
+[1] Log opened at 2019-10-10 15:21:34
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:21:34
+[1]
+[1] Log opened at 2019-10-10 15:21:45
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:21:45
+[1]
+[1] Log opened at 2019-10-10 15:22:28
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:22:28
+[1]
+[1] Log opened at 2019-10-10 15:22:36
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:22:36
+[1]
+[1] Log opened at 2019-10-10 15:23:11
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:23:11
+[1]
+[1] Log opened at 2019-10-10 15:23:26
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:23:26
+[1]
+[1] Log opened at 2019-10-10 15:23:41
+[1] I: Connecting to configured address/port: 172.17.0.1:9000.
+[1] W: Creating socket for '172.17.0.1:9000', poll success, but error: Operation now in progress (29).
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-10-10 15:23:41
+[1]

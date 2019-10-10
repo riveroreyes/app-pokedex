@@ -1,0 +1,37 @@
+version: "2.1"
+services:
+
+  pokedex_php:
+    container_name: pokedex_php
+    build: ./php/
+    volumes:
+      - ./../pokedex:/src/
+    ports:
+      - 8150:8000
+    working_dir: /src/
+    command: php -S 0.0.0.0:8000 -t ./src
+    environment:
+      PHP_EXTENSION_XDEBUG: 1
+    depends_on:
+      - pokedex_mysql
+
+  pokedex_mysql:
+    container_name: pokedex_mysql
+    restart: always
+    image: mysql:5.7.24
+    volumes:
+      - ./data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+
+  pokedex_phpmyadmin:
+    container_name: pokedex_phpmyadmin
+    restart: always
+    image: phpmyadmin/phpmyadmin
+    ports:
+      - 8050:80
+    environment:
+      PMA_HOST: pokedex_mysql
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: 123456
