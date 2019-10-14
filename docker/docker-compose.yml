@@ -1,17 +1,13 @@
-version: "2.1"
+version: "3.7"
 services:
 
   pokedex_php:
     container_name: pokedex_php
     build: ./php/
     volumes:
-      - ./../pokedex:/src/
+      - ./../pokedex:/var/www/html
     ports:
-      - 8150:8000
-    working_dir: /src/
-    command: php -S 0.0.0.0:8000 -t ./src
-    environment:
-      PHP_EXTENSION_XDEBUG: 1
+      - 8150:80
     depends_on:
       - pokedex_mysql
 
